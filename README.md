@@ -17,6 +17,10 @@ database, 100K raw server logs, and daily FX rates) into a CFO revenue dashboard
 - 94,902 valid transactions → 53,899 from active users
 - Monthly revenue stable at ~$12M; lowest in February (~$11.4M)
 - Top 5 customers each spent ~$39K (low concentration risk)
+- <img width="850" height="323" alt="image" src="https://github.com/user-attachments/assets/8d5dcf30-6064-4d8e-b42c-fb580b5ca68f" />
+
 
 ## Tools
 Python, pandas, SQLite, regex, matplotlib/seaborn
+
+
