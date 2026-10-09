@@ -2,6 +2,7 @@
 
 Python + SQL pipeline that merges three messy sources (a SQL user-history
 database, 100K raw server logs, and daily FX rates) into a CFO revenue dashboard.
+**[View the notebook →](Enterprise_Data_Reconciliation.ipynb)** | **[Source code on GitHub](https://github.com/Sai-chidwilas039/enterprise-data-reconciliation)**
 
 ## Challenges solved
 1. **Versioned data (SQL):** used ROW_NUMBER() OVER (PARTITION BY ...) to keep
